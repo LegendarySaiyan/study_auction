@@ -685,7 +685,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "579cf0ee35f809a75cf332419f45700e390ff39b688a2349bdcf2b7c7c7540e8"
+content-hash = "fde82fea259050cec71e7c3cb2e2f6eebb2fd9b2938d2fabcdba8807fc6efe0b"
 
 [metadata.files]
 aiojobs = [
